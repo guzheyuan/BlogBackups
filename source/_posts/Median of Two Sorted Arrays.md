@@ -1,5 +1,7 @@
 ﻿---
+layout: post
 title: "leetcode: 4.Median of Two Sorted Arrays"
+date: 2016-07-25 22:55
 tags:
 - leetcode
 ---
@@ -7,6 +9,7 @@ tags:
 ### 题目
 There are two sorted arrays nums1 and nums2 of size m and n respectively.
 Find the median of the two sorted arrays. The overall run time complexity should be O(log (m+n)).
+<!--more-->
 
 Example 1:
 nums1 = [1, 3]
@@ -20,7 +23,7 @@ The median is (2 + 3)/2 = 2.5
 ### 解题思路
 这题的主要思路是每次排除1/2k个
 ### 代码
-```javascript
+``` javascript
 /** 
  * @param {number[]} nums1 
  * @param {number[]} nums2 
