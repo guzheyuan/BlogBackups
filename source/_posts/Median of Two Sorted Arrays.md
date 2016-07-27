@@ -1,7 +1,7 @@
 ﻿---
 layout: post
 title: "leetcode: 4.Median of Two Sorted Arrays"
-date: 2016-07-25 22:55
+date: 2016-07-25 12:43
 tags:
 - leetcode
 ---
