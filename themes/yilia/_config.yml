@@ -9,10 +9,10 @@ menu:
 subnav:
   github: "https://github.com/guzheyuan"
   #weibo: "#"
-  rss: "/atom.xml"
+  #rss: "/atom.xml"
   zhihu: "https://www.zhihu.com/people/gu-xiao-gu-30-90"
   #douban: "#"
-  #mail: "guzheyuan1991@163.com"
+  mail: "mailto:guzheyuan1991@163.com"
   #facebook: "#"
   #google: "#"
   #twitter: "#"
