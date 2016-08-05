@@ -19,7 +19,7 @@ subnav:
   #linkedin: "#"
 
 rss: /atom.xml
-
+languages: zh-Hans
 # Content
 excerpt_link: more
 fancybox: true
@@ -60,6 +60,6 @@ friends: false
 
 #是否开启“关于我”。
 #不开启——
-aboutme: false
+#aboutme: false
 #开启——
-#aboutme: 上海大学11级，爱折腾码畜一枚
+aboutme: 上海大学 计算机工程与科学，后端码畜一枚
