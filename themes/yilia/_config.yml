@@ -3,7 +3,7 @@ menu:
   主页: /
   所有文章: /archives
   随笔: /tags/随笔/
-  leetcode: /tags/leetcode/
+  Haskell: /tags/haskell/
 
 # SubNav
 subnav:
@@ -62,4 +62,4 @@ friends: false
 #不开启——
 #aboutme: false
 #开启——
-aboutme: 上海大学 计算机工程与科学，后端码畜一枚
+aboutme: 上海大学 计算机工程与科学，后端
