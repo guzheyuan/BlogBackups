@@ -1,9 +1,9 @@
----
+﻿---
 layout: post
 title: "（译）Haskell中的WHNF"
 date: 2016-09-22 15:31
 tags:
-- Haskell
+- haskell
 ---
 在学习《real world Haskell》时对NF、WHNF的概念有些困惑，于是去stackoverflow查了查。本文来源于stackoverflow上的一个提问，大意就是怎么理解Haskell中的WHNF、HNF以及NF。译文是该提问下票数最高的回答。
 <!--more-->
