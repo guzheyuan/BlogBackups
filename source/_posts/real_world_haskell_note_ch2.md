@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 《Real World Haskell》 第二章读书笔记
+title: "《Real World Haskell》 第二章读书笔记"
 date: 2016-09-13 13:45
 tags:
 - haskell

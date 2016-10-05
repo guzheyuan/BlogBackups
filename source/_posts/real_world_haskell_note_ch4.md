@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 《Real World Haskell》 第四章读书笔记
+title: "《Real World Haskell》 第四章读书笔记"
 date: 2016-09-23 16:33
 tags:
 - haskell
